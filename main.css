@@ -14,13 +14,13 @@ body {
     padding: 0;
     /* make it look decent enough */
     background: #232323;
-    color: #cdcdcd;
-    font-family: "Avenir Next", "Avenir", sans-serif;
+    color: #ffffff;
+    font-family: "Helvetica", "Helvetica", sans-serif;
 }
 
 nav div a, nav div a svg {
     text-decoration: none;
-    color: #232323;
+    color: #000000;
     display: block;
     transition: all 0.3s ease;
     fill: #232323;
